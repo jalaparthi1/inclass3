@@ -57,7 +57,7 @@ class _DigitalPetAppState extends State<DigitalPetApp> {
             LinearProgressIndicator(
               value: happinessLevel / 100,
               backgroundColor: Colors.grey[300],
-              color: Colors.green,
+              color: Colors.blue,
               minHeight: 10,
             ),
             SizedBox(height: 30),
